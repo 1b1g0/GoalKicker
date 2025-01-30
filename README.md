@@ -1,2 +1,2 @@
-# GoalKickerAlgos
+# GoalKicker
 Repo pra guardar os exercícios do https://goalkicker.com
